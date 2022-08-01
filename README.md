@@ -1,4 +1,4 @@
-<img src="./gitretroroom.gif" alt="I am Skyhero"><img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyhero-admin&langs_count=8&show_icons=true&theme=tokyonight">
+<img src="./gitretroroom.gif" alt="I am Skyhero"><img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpatil-123&langs_count=8&show_icons=true&theme=tokyonight">
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20">
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fan of "The Legend of Zelda" franchise 😄
 -->
-![Skyhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyhero-admin&count_private=true&show_icons=true&theme=tokyonight)
+![Skyhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitpatil-123&count_private=true&show_icons=true&theme=tokyonight)
