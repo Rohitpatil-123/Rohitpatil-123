@@ -1,6 +1,6 @@
 ## <a href="https://rosapy.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there, I am Rohit
 # 💫 About Me:
-🔭 I’m currently working on data structures<br>🌱 I’m currently in B.E IT third year<br>💬 Ask me anything related technologies i know <br>
+🔭 I’m currently working on data structures<br>🌱 I’m currently in B.E IT final year<br>💬 Ask me anything related technologies i know <br>
 
 <b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b>
   <br/>
