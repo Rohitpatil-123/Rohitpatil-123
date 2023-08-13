@@ -1,12 +1,13 @@
-## <a href="https://rosapy.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there, I am Rohit
-# 💫 About Me:
-🔭 I’m currently working on data structures<br>🌱 I’m currently in B.E IT final year<br>💬 Ask me anything related technologies i know <br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitpatil-123&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpatil-123" /> </p>
+<h1 align="center">Hi 👋, I'm Rohit Patil</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-<b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b>
-  <br/>
-<br/>
+# 💫 About Me:
+🔭 I’m currently working on data structures<br>🌱 I’m currently in B.E IT final year<br>💬 Ask me anything related technologies i know <br>📫 How to reach me **rohitpatil8794@gmail.com**
+
+<b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with <br><br>
 ![My Skills](https://skillicons.dev/icons?i=html,javascript,nodejs,react,mongodb,materialui,java,redux,python,flask,mysql,bootstrap,docker,git,sqlite,netlify,onrender,&perline=8)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitpatil-123&theme=tokyonight) -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
