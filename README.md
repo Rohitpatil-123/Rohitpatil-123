@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on data structures<br>🌱 I’m currently in B.E IT final year<br>💬 Ask me anything related technologies i know <br>📫 How to reach me **rohitpatil8794@gmail.com**
+🔭 I’m currently working as Full Stack Engineer at Adsremedy Media LLP<br>💬 Ask me anything related technologies i know <br>📫 How to reach me **rohitpatil8794@gmail.com**
 
 <b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with <br><br>
 ![My Skills](https://skillicons.dev/icons?i=html,javascript,nodejs,react,mongodb,materialui,java,redux,python,flask,mysql,bootstrap,docker,git,sqlite,netlify,onrender,&perline=8)
